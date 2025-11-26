@@ -5,6 +5,10 @@
 This project simulates a **FinOps (Financial Operations) Dashboard** to monitor cloud resource usage and estimated costs, with alerts for approaching free-tier limits.  
 It is fully functional **without an active AWS Free Tier account** by using mock usage data and AWS pricing API.
 
+
+<img width="1920" height="715" alt="image" src="https://github.com/user-attachments/assets/296191b3-b495-4885-b431-a55311e1ea42" />
+
+
  🗂️ Folder Structure
 
 finops-dashboard/
